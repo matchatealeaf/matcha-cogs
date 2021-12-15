@@ -1,9 +1,9 @@
 {
 	"name": "arXivSearch",
 	"author": ["MatchaTeaLeaf"],
-	"description": "Search for papers on arXiv with links to .pdf and DOI and authors. Uses arXiv API wrapper.",
+	"description": "Search for papers on arXiv with links to .pdf, DOI and authors. Uses arXiv API wrapper by Lukas Schwab.",
 	"short": "Search for papers on arXiv.",
-	"install_msg": "Thanks you for installing arXivSearch.",
+	"install_msg": "Thank you for installing arXivSearch. This cog make use of the arXiv API wrapper by Lukas Schwab. Thank you to arXiv for use of its open access interoperability.",
 	"tags": ["arxiv", "academic", "science"],
 	"requirements": ["arxiv"],
 	"hidden": false,

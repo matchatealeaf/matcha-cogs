@@ -26,7 +26,7 @@ Aliases: `arxivsearch`, `arxiv`, `arx`
 [p]arxiv <search terms>
 ```
 
-![](screenshots/arxiv.png)
+![](.github/screenshots/arxiv.png)
 
 ## Planned Features
 

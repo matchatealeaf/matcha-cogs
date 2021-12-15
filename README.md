@@ -3,7 +3,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Cogs for Red-DiscordBot.
+Cogs for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
 
 ## Installation
 
@@ -12,19 +12,19 @@ Cogs for Red-DiscordBot.
 
 [p]cog install matcha-cogs <cog name>
 ```
-where [p] is your bot prefix.
+where `[p]` is your bot prefix.
 
 ## Cogs
 
 ### arXivSearch
 
-aliases: `arxivsearch`, `arxiv`, `arx`
+Search arXiv with python wrapper [arxiv](https://pypi.org/project/arxiv/) for arXiv API.
+
+Aliases: `arxivsearch`, `arxiv`, `arx`
 
 ```
 [p]arxiv <search terms>
 ```
-
-Search arXiv
 
 ![](screenshots/arxiv.png)
 
